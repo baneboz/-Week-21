@@ -1,0 +1,8 @@
+.main {
+  background-color: #ccc;
+}
+.container {
+  padding-inline: 1em;
+  max-width: 960px;
+  margin: 0 auto;
+}
